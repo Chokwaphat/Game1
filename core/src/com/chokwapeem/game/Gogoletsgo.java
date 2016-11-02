@@ -10,6 +10,8 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import Screens.PlayScreen;
 
 public class Gogoletsgo extends Game {
+	public static final int WIDTH = 400;
+	public static final int HEIGHT = 208;
 	public SpriteBatch batch;
 	
 	@Override
